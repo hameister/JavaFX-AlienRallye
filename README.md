@@ -9,7 +9,7 @@ Further informations and the documentation to this project can be found here [Ja
 [Pull requests][] are welcome.
 
 ## License
-The JavaFX - Lottery Wheel application is released under version 2.0 of the [Apache License][].
+The JavaFX - Alien Rallye application is released under version 2.0 of the [Apache License][].
 
 
 [Apache License]: http://www.apache.org/licenses/LICENSE-2.0
