@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color:black;
+}
+
+.track {
+	-fx-stroke: yellowgreen;
+	-fx-stroke-width: 5;
+}
+
+
